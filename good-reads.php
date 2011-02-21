@@ -3,7 +3,7 @@
 Plugin Name: Good Reads
 Plugin URI: http://iamgarrett.com
 Description: This creates a widget for your site's sidebar that contains an unordered list of links based on the 'sidebar' category of your Links section in your WordPress. It grabs each site's latest post and displays how long ago it was published, then orders them based on the date published.
-Author: Garrett Vorbeck
+Author: iamgarrett
 Version: 20110218
 Author URI: http://iamgarrett.com
 */
