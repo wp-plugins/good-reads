@@ -20,9 +20,9 @@ In the future, I'll be adding more options in the widgets' option screen.
 
 1. Upload 'good-reads.php' to the 'wp-content/plugins' directory.
 1. Activate the plugin through the 'Plugins' menu in WordPress.
-1. Go to 'Widgets' screen in 'Appearance'.
-1. Drag 'Good Reads' into your Sidebar.
-1. In the Widget settings, give it a title!
+1. Go to the 'Widgets' screen in 'Appearance' and add 'Good Reads' to your Sidebar.
+1. Go to your WordPress' 'Links' and create a category called 'Sidebar'.
+1. Add this category and the feed URL (in the RSS Address field) to each link you want to appear in 'Good Reads'.
 
 == Frequently Asked Questions ==
 
