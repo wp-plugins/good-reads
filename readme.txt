@@ -1,20 +1,34 @@
-Good Reads readme:
+=== Good Reads ===
+Contributors: iamgarrett
+Donate link: Not at this time.
+Tags: blogroll, links, rss
+Requires at least: 3.0
+Tested up to: 3.0.5
+Stable tag: trunk
 
-Thanks for trying my plugin! Good Reads is a plugin that aims to duplicate Blogger's gadget 'My Blog List' which creates a Blogroll of your favorite links showing the site's title & link, the title & link of the latest post, and the time since it was published. While it may not have the all the features of Blogger's gadget, this plugin/widget does try to emulate its behavior. This is my first plugin so let me know what you think!
+An ordered blogroll widget for your sidebar that displays your favorite blogs, what they're writing, and when.
 
-REQUIREMENTS:
-1) jQuery
+== Description ==
 
-INSTALLATION:
-1) Activate plugin.
-2) Go to Widgets screen in Appearance.
-3) Drag 'Good Reads' into your Sidebar.
-4) In the Widget settings, give it a title!
+Google's Blogger tool has a great blogroll gadget, which I've always wanted in WordPress. I tried a few plugins that advertised similar behavior but was never quite satisfied - so I made my own.
 
-SETUP:
-1) Go to Link Categories in Links.
-2) Create a new category called 'Sidebar'.
-3) IMPORTANT: Any link that you want listed in your 'Good Reads' module will need to have the 'RSS Address' field (under Advanced in the Edit Link page) filled with the site's feed URL, so go put those in.
-4) Apply the 'Sidebar' category to any link in your Links that you want listed in 'Good Reads'
+This will grab all your links with a category of 'sidebar' and show them in a list on your sidebar. Specify each link's RSS/Atom feed address and it will grab the latest post, a link, and reorder the list based on when these posts were written. It only required that you have jQuery and PHP and uses the Links and Widget section already included in WordPress.
 
-That should be it. If you experience a problem make sure that you have the RSS Address field filled (correctly) and the Sidebar category applied to the Link. Problems after that may apply to that site's feed having errors in it, which can happen.
+In the future, I'll be adding more options in the widgets' option screen.
+
+== Installation ==
+
+1. Upload 'good-reads.php' to the 'wp-content/plugins' directory.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
+3. Go to 'Widgets' screen in 'Appearance'.
+4. Drag 'Good Reads' into your Sidebar.
+5. In the Widget settings, give it a title!
+
+== Screenshots ==
+
+1. A 'Good Reads' module in my sidebar with four sites in the 'sidebar' category.
+
+== Changelog ==
+
+= 1.0 =
+* Public release!
