@@ -32,7 +32,7 @@ In the future, I'll be adding more options in the widget's option screen.
 
 == Changelog ==
 
-= 1.0 =
+= 20110218 =
 * Public release!
 
 == Upgrade Notice ==
