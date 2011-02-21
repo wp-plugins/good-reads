@@ -1,7 +1,7 @@
 === Good Reads ===
 Contributors: iamgarrett
 Donate link: Not at this time.
-Tags: blogroll, links, rss
+Tags: blogroll, links, rss, blogs, sidebar, widget
 Requires at least: 3.0
 Tested up to: 3.0.5
 Stable tag: trunk
