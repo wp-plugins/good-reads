@@ -14,7 +14,7 @@ Google's Blogger tool has a great blogroll gadget, which I've always wanted in W
 
 This will grab all your links with a category of 'sidebar' and show them in a list on your sidebar. Specify each link's RSS/Atom feed address and it will grab the latest post, a link, and reorder the list based on when these posts were written. It only requires that you have jQuery and PHP and uses the Links and Widget section already included in WordPress.
 
-In the future, I'll be adding more options in the widgets' option screen.
+In the future, I'll be adding more options in the widget's option screen.
 
 == Installation ==
 
