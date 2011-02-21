@@ -19,10 +19,12 @@ In the future, I'll be adding more options in the widgets' option screen.
 == Installation ==
 
 1. Upload 'good-reads.php' to the 'wp-content/plugins' directory.
-2. Activate the plugin through the 'Plugins' menu in WordPress.
-3. Go to 'Widgets' screen in 'Appearance'.
-4. Drag 'Good Reads' into your Sidebar.
-5. In the Widget settings, give it a title!
+1. Activate the plugin through the 'Plugins' menu in WordPress.
+1. Go to 'Widgets' screen in 'Appearance'.
+1. Drag 'Good Reads' into your Sidebar.
+1. In the Widget settings, give it a title!
+
+== Frequently Asked Questions ==
 
 == Screenshots ==
 
@@ -32,3 +34,5 @@ In the future, I'll be adding more options in the widgets' option screen.
 
 = 1.0 =
 * Public release!
+
+== Upgrade Notice ==
