@@ -28,7 +28,7 @@ This will grab all your links with a category of 'sidebar' and show them in a li
 
 1. Make sure that the feed url is correct in WP.
 1. Make sure you have the widget set to order them by publish date.
-1. Make sure you have jQuery linked in your site's <head>.
+1. Make sure you have jQuery linked in your site's header.
 
 == Screenshots ==
 
